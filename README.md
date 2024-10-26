@@ -1,12 +1,12 @@
 # EDA-10Days-10Projects
 
-This repository contains 10 exploratory data analysis (EDA) projects completed in 10 days. Each project focuses on a different dataset, covering various aspects of data analysis such as data cleaning, visualization, and feature engineering.
+This repository contains 10 exploratory data analysis (EDA) projects completed in 10 days. 
 
 ## Projects Overview
 
 | Day | Project Title                              | Description                                             | Dataset Source |
 |-----|-------------------------------------------|---------------------------------------------------------|----------------|
-| 1   | [Project 01: Sales Analysis]              | Analyzing sales data to identify trends and patterns.   | [Sales Data](https://example.com/sales-data) |
+| 1   | [Project 01: Superhero Data Analysis](./Project%2001%20-%20Superhero%20Dataset/superhero_data_analysis.ipynb)             | Analyzing SuperHero Data to find who's the most Powerful?   | [SuperHero Data](https://www.kaggle.com/datasets/claudiodavi/superhero-set/data) |
 | 2   | [Project 02: Customer Segmentation]       | Segmenting customers based on purchasing behavior.      | [Customer Data](https://example.com/customer-data) |
 | 3   | [Project 03: Market Basket Analysis]      | Analyzing market basket data to find product associations. | [Market Basket Data](https://example.com/market-basket-data) |
 | ... | ...                                       | ...                                                     | ...            |
@@ -16,15 +16,17 @@ This repository contains 10 exploratory data analysis (EDA) projects completed i
 
 The repository is structured as follows:
 
-- **Project_XX/**: Each project folder contains:
+- **Project XX - ProjectName /**: Each project folder contains:
   - **data/**: Raw and cleaned datasets used in the project.
-  - **notebooks/**: Jupyter notebooks with the analysis.
   - **images/**: Plots and visualizations generated during the analysis.
+  - **Notebooks**: A ipynb file with Complete Data Analysis
   - **README.md**: A detailed explanation of the project, including methodology, results, and conclusions.
+  
 
 ## How to Use This Repository
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/EDA-10Days-10Projects.git
+   git clone https://github.com/paudelsamir/EDA-10Days-10Projects.git
    cd EDA-10Days-10Projects
+   ```
