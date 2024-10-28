@@ -8,9 +8,9 @@ This repository contains 10 exploratory data analysis (EDA) projects completed i
 |-----|-------------------------------------------|---------------------------------------------------------|----------------|
 | 1   | [Project 01: Superhero Data Analysis](./Project%2001%20-%20Superhero%20Dataset/superhero_data_analysis.ipynb)             | Analyzing SuperHero Data to find who's the most Powerful?   | [SuperHero Data](https://www.kaggle.com/datasets/claudiodavi/superhero-set/data) |
 | 2   | [Project 02: Ukraine vs Russia War Analysis](./Project%2002%20-%20Ukarine%20Vs%20Russia%20War/ukraine-vs-russia-war-eda.ipynb)       | Exploring War Damage with Russia POV      | [War Data](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war) |
-| 3   | [Project 03: Market Basket Analysis]      | Analyzing market basket data to find product associations. | [Market Basket Data](https://example.com/market-basket-data) |
+| 3   | [Project 03: Analyzing Trekking Trails of Nepal](./Project%2003%20-%20Trekking%20Trails%20Nepal/)      | Exploring the Trails of Nepal | [Trails Data](https://www.kaggle.com/datasets/manishsunuwar/trekking-trails-dataset-of-nepal) |
+| 4   | [Project 04: Best 50 Exercises for your body](./Project%2004%20-%20Best%2050%20Exercises%20for%20your%20body/best_50_exercises_EDA.ipynb)      | Finding the Exercises based on different Categories | [Exercise Data- Kaggle](https://www.kaggle.com/datasets/prajwaldongre/best-50-exercise-for-your-body) |
 | ... | ...                                       | ...                                                     | ...            |
-| 10  | [Project 10: Sentiment Analysis]          | Analyzing customer reviews to determine sentiment.      | [Review Data](https://example.com/review-data) |
 
 ## Folder Structure
 
