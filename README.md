@@ -24,10 +24,10 @@ The repository is structured as follows:
   - **README.md**: A detailed explanation of the project, including methodology, results, and conclusions.
   
 
-## How to Use This Repository
+## to use: 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/paudelsamir/EDA-10Days-10Projects.git
-   cd EDA-10Days-10Projects
+   git clone https://github.com/paudelsamir/EDA-Projects.git
+   cd EDA-Projects
    ```
